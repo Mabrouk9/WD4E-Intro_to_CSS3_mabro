@@ -1,7 +1,7 @@
 body{
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 150%;
-  background-color:#ccdde2;
+  background-color: #ccdde2;
 }
 header{
   background-color:#e2cce2;
@@ -11,7 +11,7 @@ nav{
   background-color: #e2cce2;
 }
 main{
-  backgroun-color:#d699d6;
+  background-color:#d699d6;
   font-size:7px;
 }
 footer{
@@ -23,8 +23,9 @@ li{
 }
 h1{
   text-align:center;
-  font-fimally: Arial, sans-serif;
-  color:Arial, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
+  color:lightblue;
+}
   p {
   line-height: 1.8;
 }
