@@ -1,6 +1,7 @@
 body{
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 150%;
+  background-color:lightgray;
 }
 header{
   background-color:#e2cce2;
